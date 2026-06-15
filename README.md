@@ -1,35 +1,16 @@
 # Hello, I am H1lbert-kt
 
-Backend Developer focused on Python and building robust, secure, and scalable APIs. I constantly aim to apply market best practices in software architecture, data security, and modern infrastructure.
+Backend Developer
 
 ---
 
-## Fields of Interest and Study
+## Technologies
 
-* **Web Development:** Creating efficient REST APIs with FastAPI and the Python ecosystem.
-* **Security and Authentication:** Implementing secure flows with JWT tokens and advanced password hashing using Argon2id.
-* **Database:** Relational modeling and production data persistence using PostgreSQL.
-* **Infrastructure and DevOps:** Environment isolation, microservices orchestration, and containerization using Docker and Docker Compose.
-
----
-
-## Main Technologies
-
-* **Languages:** Python, SQL
-* **Frameworks:** FastAPI
-* **Databases:** PostgreSQL, SQLite
-* **ORM:** SQLAlchemy
-* **Tools:** Docker, Docker Compose, Git, GitHub
-
----
-
-## Featured Projects
-
-### [Barber Shop API](https://github.com/H1lbert-kt/projetoapi)
-Complete REST API for service management and scheduling.
-* Advanced security implementation using Argon2id and JWT.
-* Containerized architecture running the API and PostgreSQL database via Docker Compose.
-* Isolated data persistence using structured volumes.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -40,6 +21,5 @@ Complete REST API for service management and scheduling.
 
 ---
 
-## Contact
-
-* **GitHub:** [github.com/H1lbert-kt](https://github.com/H1lbert-kt)
+## Projects
+* [Barber Shop API](https://github.com/H1lbert-kt/projetoapi) - FastAPI, PostgreSQL & Docker
