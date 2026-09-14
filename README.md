@@ -23,5 +23,6 @@ Backend Developer
 ---
 
 ## Projects
-* [Barber Shop API](https://github.com/H1lbert-kt/projetoapi) - FastAPI, PostgreSQL, Docker & tests
-* [Medsync API](https://github.com/H1lbert-kt/medsync-docker-fastapi) - FastAPI, PostgreSQL, Docker & tests
+* [Barber Shop API](https://github.com/H1lbert-kt/projetoapi) - FastAPI, PostgreSQL, Docker & Tests with Pytest
+* [Medsync API](https://github.com/H1lbert-kt/medsync-docker-fastapi) - FastAPI, PostgreSQL, Docker & Tests with Pytest
+* [Dev Journey](https://github.com/H1lbert-kt/Dev-journey) - FastAPI, PostgreSQL, Docker & Tests with Pytest
