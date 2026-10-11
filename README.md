@@ -26,3 +26,4 @@ Backend Developer
 * [Barber Shop API](https://github.com/H1lbert-kt/projetoapi) - FastAPI, PostgreSQL, Docker & Tests with Pytest
 * [Medsync API](https://github.com/H1lbert-kt/medsync-docker-fastapi) - FastAPI, PostgreSQL, Docker & Tests with Pytest
 * [Dev Journey](https://github.com/H1lbert-kt/Dev-journey) - FastAPI, PostgreSQL, Docker & Tests with Pytest
+* [Primordia](https://github.com/H1lbert-kt/primordia) - 2D ecosystem powered by natural selection
